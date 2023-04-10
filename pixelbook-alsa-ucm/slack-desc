@@ -1,0 +1,19 @@
+# HOW TO EDIT THIS FILE:
+# The "handy ruler" below makes it easier to edit a package description. Line
+# up the first '|' above the ':' following the base package name, and the '|'
+# on the right side marks the last column you can put a character in. You must
+# make exactly 11 lines for the formatting to be correct. It's also
+# customary to leave one space after the ':'.
+
+                  |-----handy-ruler----------------------------------------------------|
+pixelbook-alsa-ucm: pixelbook-alsa-ucm (Alsa UCM profile for Google Pixelbook)
+pixelbook-alsa-ucm:
+pixelbook-alsa-ucm: This is the UCM profiles for Alsa used on Google's Pixelbook
+pixelbook-alsa-ucm: laptop. 
+pixelbook-alsa-ucm: I took this from Jason Montleon github. Thanks Jason.
+pixelbook-alsa-ucm: 
+pixelbook-alsa-ucm:
+pixelbook-alsa-ucm:
+pixelbook-alsa-ucm: Homepage: https://github.com/jmontleon/pixelbook-fedora
+pixelbook-alsa-ucm:  
+pixelbook-alsa-ucm:

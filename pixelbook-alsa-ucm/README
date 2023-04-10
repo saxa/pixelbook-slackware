@@ -1,0 +1,21 @@
+Alsa UCM files for Google's Pixelbook
+=====================================
+
+This configuration files were creaded by Jason Montleon 
+and you can get them from his github account at:
+
+https://github.com/jmontleon/pixelbook-fedora
+
+This SlackBuild was created to facilitate the install
+and maybe modify it according to how Slackware uses it.
+
+I believe that we do not need this scripts in ALSA ucm directory
+as in my case the standard install had a nearly perfectly working
+sound.
+
+Maybe I decide to incorporate later also some other rules 
+into this package like automate of swithicing the output 
+when headphones are plugged in, which right now does not 
+work our of the box.
+
+Sasa Ostrouska <casaxa @ gmail . com>
