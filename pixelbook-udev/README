@@ -1,0 +1,15 @@
+Udevd rules and hwdb files for Google's Pixelbook
+=================================================
+
+This configuration files were creaded by Jason Montleon 
+and you can get them from his github account at:
+
+https://github.com/jmontleon/pixelbook-fedora
+
+This SlackBuild was created to facilitate the install
+and maybe modify it according to how Slackware uses it.
+
+Maybe we later we add other and more of them if needed
+at all.
+
+Sasa Ostrouska <casaxa @ gmail . com>
